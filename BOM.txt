@@ -1,0 +1,8 @@
+Bill of Materials for API Wind Direction, Wind Speed and Air Temp project
+
+All parts were purchased on Amazon 
+
+1. Arduino NANO ESP32
+2. HiLetgo, 1.28" TFT LCD display (GC9A01 driver) Qty (2) 
+3. 10 uF electrolytic cap 
+
