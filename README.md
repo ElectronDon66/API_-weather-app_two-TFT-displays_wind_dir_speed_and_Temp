@@ -25,4 +25,4 @@ These are the libraries you will need to load into your IDE library for this ske
 #include <ESP32Time.h>
 #include <Arduino_GFX_Library.h>
 #include <SPI.h>
-The youtube video for this is at https://youtu.be/EmmPUxZPQWU 
+The youtube video for this is at     https://youtu.be/NmUVwrHxLis  
